@@ -43,7 +43,7 @@
 
 ## 📫 Cómo contactarme
 
-- ✉️ carlos.m.guillem [arroba] gmail.com
+- ✉️ [carlos.m.guillem@gmail.com](mailto:carlos.m.guillem@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-marcos-guillem/)
 
 ---
