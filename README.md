@@ -26,8 +26,7 @@
 - 🔭 Actualmente trabajo con tecnologías de inteligencia artificial generativa
 - 🌱 Aprendiendo constantemente sobre redes neuronales y LLMs
 - 🎯 Buscando siempre un equilibrio entre el desarrollo backend y la usabilidad frontend
-- ✈️ Entusiasta del aeromodelismo y la electrónica DIY
-- 🎮 Gamer casual con espíritu competitivo (modo zombies, shooters...)
+- ✈️ Entusiasta del aeromodelismo y la electrónica 
 
 ---
 
