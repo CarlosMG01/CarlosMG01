@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 ¡Soy Carlos! </h1>
 
 <p align="center">
-🎓 Doble Grado en Ingeniería en Sistemas de Telecomunicaciones e Ingeniería Informática   
-📍 España
-💡 Intereses: IA, circuitos, Japón, videojuegos shooter casuales
+🎓 Doble Grado en Ingeniería en Sistemas de Telecomunicaciones e Ingeniería Informática <br/>
+📍 España <br/>
+💡 Intereses: IA, programación, redes, circuitos <br/>
 </p>
 
 ---
